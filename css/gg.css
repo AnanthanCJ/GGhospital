@@ -1,0 +1,368 @@
+.header-container{
+    position: relative;
+}
+
+.container{
+    position:relative;
+}
+.container .buttondiv{
+    position: absolute;
+    top:45%;
+    left:9% ;
+}
+.insideText{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 20px;
+    height: 80px;
+    
+    
+}
+.mainform{
+    position: absolute;
+    top: 93%;
+    left: 15%;
+   width: 75%;
+    margin: auto;
+    border: 1px solid white ;
+    padding: 10px;
+    background-color: white;
+}
+.formLeft{
+    display: flex;
+    flex-direction: row ;
+   
+    
+}
+
+
+#fullName{
+flex : 1;
+margin-left: 25px;
+padding: 20px;
+ 
+}
+#phoneNumber{
+    flex: 1;
+    margin-left: 25px;
+
+}
+#selectDate{
+    flex: 1;
+    margin-left: 25px;
+
+}
+.formRight{
+    display : flex;
+    margin-top: 25px;
+   
+}
+#selectDepartment{
+flex: 1;
+margin-left: 25px;
+padding: 20px;
+
+
+}
+#selectDoctor{
+ flex: 1;
+ margin-left: 25px;
+}
+button{
+    flex : 1;
+    margin-left: 15px;
+    background-color: #17c1a3;
+    border-radius: 5px;
+    width: 1000px;
+    border: none;
+    padding: 0px;
+   
+}
+.mainSecond{
+    margin-top: 100px;
+    margin-left: -30px;
+    padding: 10px;
+    
+}
+.secondPage{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+.secondPageImageone{
+    flex: 1;
+   padding: 10px;
+   margin: 10px;
+
+      
+}
+.secondPageImagetwo{
+    flex: 1;
+   padding: 10px;
+   margin: 10px;
+
+      
+}
+.secondPageImagethree{
+    flex: 1;
+   padding: 10px;
+   margin: 10px;
+
+      
+}
+
+
+.ourdepartments{
+    margin: 10px;
+    margin-left: 40px;
+}
+
+div.sedondPageImageone .secondPageText {
+    margin-left: 20px;
+}
+.mainThird{
+    margin-top: 100px;
+    background-color: #EAF2FF;
+    position: relative;
+    margin-left: 10px;
+   
+}
+.thirdImage{
+    width: 800px;
+    height: 500px;
+}
+.thirdText{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+}
+
+.mainFourth{
+    display: flex;
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 100px;
+    padding-left: 40px;
+    position: relative;
+   
+}
+.subFourth{
+    flex: 1;
+   
+    margin: 10px;
+    padding: 10px;
+   width: 250px;
+}
+.textFourth{
+    color: grey;
+}
+.textBox{
+    margin-left: 75px;
+}
+.fourTopText{
+   padding: 10px;
+ position: absolute;
+ top: 2%;
+ left: 40%;
+ margin: 1px solid black;
+}
+.fourBottomText{
+   padding-left: 35px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+  
+    background-color:#17C1A3;
+    
+    border-radius: 6px;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    
+}
+.facilities{
+    margin-top: 100px;
+    margin: 50px;
+    display: flex;
+    position: relative;
+    
+}
+.facilityImageContainer{
+    margin: 20px;
+    flex: 1;
+    
+}
+
+.facilityText{
+    margin-top: -50px;
+    position: absolute;
+    top: 4%;
+    left: 40%;
+}
+.youMayBeInterested{
+   
+    position: relative;
+    display: flex;
+    margin: 50px;
+}
+.interestedImageContainer{
+  flex: 1;
+  margin: 20px;
+}
+.interestedText{
+    position: absolute;
+    top: -15%;
+    left: 40%;
+}
+.rectangleBackground{
+    margin-top: 200px;
+   position: relative;
+   
+}
+.rectangleTop{
+    
+    position: absolute;
+    top: -150px;
+    left: 0px;
+}
+.rectangleBottom{
+    
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    background-color: white;
+    height: 150px;
+    margin-top: 50px;
+   
+   padding: 20px;
+   width: 1000px;
+}
+.rectangleImage{
+   margin-top: -17px;
+   margin-left: -20px;
+   max-width: 120%;
+   max-height: 120%;
+
+display: block;
+transform: rotate(0deg);
+}
+
+.rectangleMail{
+    display: flex;
+    
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    top: 65%;
+    left: 20%;
+}
+.mailText{
+    flex: 1;
+   
+}
+.inputButton{
+ flex: 1;
+ margin-top: 25px;
+ margin-right: -350px;
+ 
+}
+.buttonFinal{
+position: absolute;
+left: 90%;
+top: 15%;
+margin-top: -1px;
+ 
+}
+.tophalf{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.lastOne{
+ flex: 1;
+ background-color: white;
+}
+.lastTwo{
+ flex: 2;
+ margin-left: 100px;
+}
+.lastThree{
+ flex: 3;
+}
+
+.bottomHalf{
+ display: flex;
+ padding-left: 200px;
+ padding-right: 50px;
+ margin-top: 30px;
+}
+.bottomOne{
+ flex: 1;
+}
+.bottomTwo{
+ flex: 1;
+ margin-left: -100px;
+ 
+}
+.bottomThree{
+ flex: 1;
+ margin-right: 70px;
+ margin-left: -200px;
+}
+.bottomFour{
+ flex: 1;
+ margin-left: -250px;
+ margin-top: -20px;
+}
+.lastContainer{
+    position: relative;
+}
+.trademark{
+    position: absolute;
+    bottom: -30%;
+    left: 42%;
+}
+.topfollow{
+   
+    display: flex;
+    height: 20px;
+}
+.followLeft{
+ flex: 1;
+ margin-top: -20px;
+}
+.followRight{
+ flex: 1;
+}
+.followLeft img{
+    margin-bottom: -5px;
+}
+.arrow{
+    background-color: #17C1A3;
+}
+.ourDepartments{
+    display: flex;
+   
+}
+.arrowText{
+    flex: 1;
+   
+}
+.arrows{
+    flex: 1;
+   
+}
+.imgArrow{
+    position: absolute;
+    top: 2%;
+    left: 90%;
+}
+
+.lastArrow{
+    position: absolute;
+    left: 85%;
+    top: 5%;
+}

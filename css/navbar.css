@@ -1,0 +1,31 @@
+.header-container{
+    display: flex;
+    width :100%
+}
+.logo-div{
+    flex:1;
+
+}
+.top-nav{
+    flex:2;
+    
+    
+    
+}
+.top-nav a {
+    text-decoration: none;
+    font-family: over;
+    color:#211E1E;
+    margin: auto;
+
+}
+
+
+a {
+    border: 0px black solid;
+    margin-top: 5px;
+    padding : 5px;
+}
+.top-nav a.active {
+    color: red;
+}
