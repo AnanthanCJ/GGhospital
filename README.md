@@ -3,14 +3,14 @@ GGhospital website using HTML and CSS
 ## Description
 HTML and CSS training did during my ILP period. Designed the Home page of GG Hospital Website using HTML and CSS as part of my ILP training. Got familiarized with CSS and HTML. Project was done in VS Code and, Live Server, to deploy HTML on localhost, and Prettier, for code formatting, the Extensions used for my project.
 ## Contents Included
-The page has the following contents included:
+The page has the following contents included:<br>
 1.Home page <br>
-2.Book an appointment
-3.Our departments
-4.Why GG Hospital 
-5.Meet our specialist
-6.Facilities & Activities
-7.Newsletter signup
+2.Book an appointment <br>
+3.Our departments <br>
+4.Why GG Hospital  <br>
+5.Meet our specialist <br>
+6.Facilities & Activities <br>
+7.Newsletter signup <br>
 
 ![Screenshot (23)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/8c837161-e203-4d9c-9c6f-269b060c5ef2)
 ![Screenshot (24)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/aa54a29d-26a2-4515-a8a3-792093d82930)
