@@ -11,10 +11,9 @@ The page has the following contents included:<br>
 5.Meet our specialist <br>
 6.Facilities & Activities <br>
 7.Newsletter signup <br>
-
-![Screenshot (23)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/4dc4d1ef-2d41-409a-aeff-44e667618810)
-![Screenshot (24)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/e1a33d35-5d0d-41e4-876f-f8c3cc91bb01)
-![Screenshot (25)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/e818ca9a-cefb-472a-9be9-c94b53af7ffc)
+![Screenshot (30)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/846ab8ad-e181-47f0-bbe2-d5b1ac590fd0)
+![Screenshot (31)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/30182817-34c9-447c-ad9d-e45442787726)
+![Screenshot (32)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/10ba985b-e3ee-4ff4-b099-ba00938677bb)
 ![Screenshot (26)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/9443d6e0-a923-48f2-9865-cdf2db0ad7ac)
 ![Screenshot (27)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/49c8458b-1169-43b6-a88d-6dbeedb63909)
 ![Screenshot (28)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/b79ba014-fafd-46b6-8c10-fc378f863968)
