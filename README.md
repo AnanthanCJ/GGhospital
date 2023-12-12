@@ -12,10 +12,12 @@ The page has the following contents included:<br>
 6.Facilities & Activities <br>
 7.Newsletter signup <br>
 
-![Screenshot (23)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/8c837161-e203-4d9c-9c6f-269b060c5ef2)
-![Screenshot (24)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/aa54a29d-26a2-4515-a8a3-792093d82930)
-![Screenshot (25)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/420160a0-8401-4895-81d6-fe2bec9ac380)
-![Screenshot (26)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/21856234-80b5-49af-921c-641be54a83ce)
-![Screenshot (27)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/583be37d-1c80-46fa-8c77-b3d9d7fb3d25)
-![Screenshot (28)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/189ebfca-0568-4220-9c00-a2044e9c8d53)
-![Screenshot (29)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/3542e415-fe92-4554-8c3b-4ff1d9fa2794)
+![Screenshot (23)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/4dc4d1ef-2d41-409a-aeff-44e667618810)
+![Screenshot (24)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/e1a33d35-5d0d-41e4-876f-f8c3cc91bb01)
+![Screenshot (25)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/e818ca9a-cefb-472a-9be9-c94b53af7ffc)
+![Screenshot (26)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/9443d6e0-a923-48f2-9865-cdf2db0ad7ac)
+![Screenshot (27)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/49c8458b-1169-43b6-a88d-6dbeedb63909)
+![Screenshot (28)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/b79ba014-fafd-46b6-8c10-fc378f863968)
+![Screenshot (29)](https://github.com/AnanthanCJ/GGhospital/assets/152945570/e2fa2cb4-62ba-40d8-be55-1b92cf1f7208)
+
+
